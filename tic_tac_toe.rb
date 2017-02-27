@@ -72,4 +72,4 @@ end
 
 end
 
-start=TicTacToe.new
+tic=TicTacToe.new
